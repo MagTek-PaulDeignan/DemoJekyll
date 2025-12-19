@@ -1,5 +1,5 @@
-
 ---
+-
 title: Overview
 layout: home
 parent: 
@@ -35,4 +35,3 @@ During the transition, some families may offer both; **Web Docs** are the primar
 Integration resources for .NET, Java, iOS, Android, macOS, and Windows. Includes sample projects and platform-specific notes to accelerate development.
 
 ---
-
